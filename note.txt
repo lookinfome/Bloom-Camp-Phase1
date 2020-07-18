@@ -1,0 +1,8 @@
+it is actually a v11 and according to ian, its a bckground slider version.
+
+Changes:
+	refactor landing page -done
+	added background slider on landing page -done
+	refactor login page 
+	refactor signup page
+	dynamic price feature -done
